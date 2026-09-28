@@ -5,7 +5,7 @@ A complete, portable HTML/CSS/JavaScript website: homepage and seven individual 
 ## Open locally
 
 1. Extract the ZIP and open the `colosseum-engineering` folder in VS Code.
-2. With Node.js 20 or later installed, run `npm run dev` in the terminal.
+2. With Node.js 22.x installed, run `npm run dev` in the terminal.
 3. Open http://127.0.0.1:4173.
 
 Alternatively open `dist/index.html` directly, or use VS Code Live Server. All links and images work offline. No `npm install` is needed because there are no dependencies.
@@ -76,3 +76,23 @@ The WhatsApp link uses the existing documented business telephone number (+91 62
 ## Unified design update
 
 All eight pages now share self-hosted Manrope typography, consistent spacing, image treatment, tags, cards, buttons and motion. Local Lucide service icons and their license are included. See docs/DESIGN-SYSTEM.md and docs/VALIDATION.md.
+
+## Vercel deployment
+
+This is plain static HTML/CSS/JavaScript, not Vite or Next.js. The deployable site is committed in `dist/`; `npm run build` validates it rather than generating another folder. Keep all of `dist/` tracked.
+
+Use these settings under Project > Settings > Build and Deployment:
+
+| Setting | Value |
+| --- | --- |
+| Framework Preset | Other |
+| Build Command | npm run build |
+| Output Directory | dist |
+| Install Command | Default (npm install) |
+| Node.js Version | 22.x |
+| Root Directory | Repository root, if package.json and vercel.json are there |
+
+If your repository contains this project inside a subfolder, select that exact subfolder as Root Directory (for this workspace layout: `outputs/colosseum-engineering`). Never select `dist` as Root Directory: it is the Output Directory.
+
+The checked-in vercel.json specifies the output directory and build command. Replace any old `public` dashboard override with `dist`. Commit and push the updated project, including package-lock.json and vercel.json, then redeploy. Existing `/projects/*.html` routes remain ordinary static files; no SPA rewrite is required.
+
