@@ -1,0 +1,129 @@
+[
+  {
+    "slug": "tripura-rural-roads",
+    "title": "PM-JANMAN Rural Road DPRs",
+    "location": "Tripura",
+    "category": "Rural roads",
+    "image": "road-construction.jpg",
+    "client": "PMGSY Division No. I, Agartala / TRRDA",
+    "summary": "Detailed Project Report preparation for rural road projects, including bridges and cross-drainage structures, under PM-JANMAN in Tripura.",
+    "scope": [
+      "Preparation of rural road Detailed Project Reports.",
+      "Coverage of associated bridges and cross-drainage structures.",
+      "Documentation in accordance with the PMGSY guidelines specified in the appointment."
+    ],
+    "source": "01_Tripura_PM-JANMAN_PMGSY_Rural_Road_DPRs.pdf",
+    "pages": "2–3",
+    "note": "Notice to proceed and letter of acceptance dated 11 January 2024."
+  },
+  {
+    "slug": "chapra-river-bridge",
+    "title": "Chapra River Bridge",
+    "location": "Alipurduar, West Bengal",
+    "category": "Bridge engineering",
+    "image": "bridge-construction.jpg",
+    "client": "Executive Engineer, WBSRDA, Alipurduar Division",
+    "summary": "DPR consultancy for the bridge over the Chapra River on the T01 road connecting the Alipurduar–Falakata road via Mathura Bazar.",
+    "scope": [
+      "Reconnaissance survey using DGPS and LiDAR.",
+      "Sub-soil investigation and detailed survey.",
+      "Hydrology survey and preliminary project report.",
+      "Engineering design and Detailed Project Report preparation."
+    ],
+    "source": "02_Chapra_River_Bridge_Alipurduar.pdf",
+    "pages": "2–4",
+    "note": "Appointment letter, bridge schedule and consultancy certificate.",
+    "length": "31.96 m"
+  },
+  {
+    "slug": "gharghoria-river-bridge",
+    "title": "Gharghoria River Bridge",
+    "location": "Hatidoba, Cooch Behar, West Bengal",
+    "category": "Bridge engineering",
+    "image": "bridge-construction.jpg",
+    "client": "Executive Engineer, WBSRDA, Cooch Behar-II Division",
+    "summary": "DPR preparation for the bridge over the Gharghoria River at Hatidoba, on the PMGSY road from Bhetalguri–Cooch Behar–Alipurduar Pucca Road at Kalimandir Road.",
+    "scope": [
+      "Reconnaissance survey using DGPS and LiDAR.",
+      "Sub-soil investigation and detailed survey.",
+      "Hydrology survey and preliminary project report.",
+      "Engineering design and Detailed Project Report preparation."
+    ],
+    "source": "03_Gharghoria_River_Bridge_Cooch_Behar.pdf",
+    "pages": "2–4",
+    "note": "Appointment letter, bridge details and consultancy certificate.",
+    "length": "67.66 m"
+  },
+  {
+    "slug": "karatia-river-bridge",
+    "title": "Karatia River Bridge",
+    "location": "Hedia, Canning-II, Sundarban",
+    "category": "Bridge engineering",
+    "image": "bridge-construction.jpg",
+    "client": "Sundarban Development Board, Civil Engineering Division No. IV",
+    "summary": "DPR preparation for a proposed bridge and approaches over the Karatia River at Hedia, under Atharobanki Gram Panchayat, Canning-II.",
+    "scope": [
+      "Topographical, hydrographical and traffic surveys.",
+      "Detailed soil reporting for pile-depth determination.",
+      "River discharge calculations and hydrological data.",
+      "Structural design, reinforcement details and general arrangement drawings.",
+      "Estimates for the bridge and approaches, with the specified vetting."
+    ],
+    "source": "04_Karatia_River_Bridge_Hedia_Canning-II_Sundarban.pdf",
+    "pages": "1",
+    "note": "Work order dated 7 July 2025."
+  },
+  {
+    "slug": "nabcons-rural-roads",
+    "title": "57 Rural Roads & Culverts",
+    "location": "West Bengal",
+    "category": "Rural roads",
+    "image": "road-construction.jpg",
+    "client": "NABARD Consultancy Services Pvt. Ltd. (NABCONS)",
+    "summary": "Engagement by NABCONS for preparation of DPRs for 57 rural roads and culverts in connection with inclusion under RIDF-XXIX.",
+    "scope": [
+      "Field studies, soil testing and topographical surveys.",
+      "Traffic census, road condition and bridge / cross-drainage inventories.",
+      "Road plans, profiles, cross-sections and pavement design.",
+      "Culvert design, structural drawings and detailed estimates.",
+      "Report preparation and technical vetting specified through Jadavpur University."
+    ],
+    "source": "05_NABCONS_57_Rural_Roads_RIDF-XXIX.pdf",
+    "pages": "2–3",
+    "note": "NABCONS work order dated 11 April 2023; engagement as project-based contract staff."
+  },
+  {
+    "slug": "panchpara-ssk-building",
+    "title": "New SSK Building",
+    "location": "Panchpara, Sankrail, Howrah",
+    "category": "Building engineering",
+    "image": "building-construction.jpg",
+    "client": "Howrah Zilla Parishad",
+    "summary": "Building DPR preparation for the new SSK at Panchpara under Sankrail Block in Howrah District.",
+    "scope": [
+      "Soil investigation and site survey.",
+      "Foundation design.",
+      "Building drawings.",
+      "Detailed estimate and Building DPR preparation."
+    ],
+    "source": "06_Howrah_ZP_New_SSK_Building_Panchpara.pdf",
+    "pages": "2",
+    "note": "Letter of acceptance cum work order dated 15 July 2024."
+  },
+  {
+    "slug": "goureswar-river-bridge",
+    "title": "Goureswar River Bridge",
+    "location": "Bishpur, Hingalganj, North 24 Parganas",
+    "category": "Bridge engineering",
+    "image": "bridge-construction.jpg",
+    "client": "Executive Engineer, WBSRDA, Basirhat Division",
+    "summary": "DPR preparation for the proposed bridge over the Goureswar River at Bishpur under Hingalganj Block in North 24 Parganas.",
+    "scope": [
+      "Preparation of the Detailed Project Report for the proposed river bridge.",
+      "DPR assignment under the WBSRDA Basirhat Division work order."
+    ],
+    "source": "07_Goureswar_River_Bridge_Hingalganj.pdf",
+    "pages": "2",
+    "note": "Work order dated 7 March 2024."
+  }
+]
