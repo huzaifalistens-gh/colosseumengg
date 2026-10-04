@@ -75,7 +75,6 @@
 .hero-tile-building img{object-position:center 38%}
 .hero-tile-label{position:absolute;z-index:1;left:10px;bottom:10px;padding:5px 8px;border:1px solid #ffffff40;border-radius:4px;background:#122a3ae8;color:white;font-size:.68rem;font-weight:700;line-height:1.35;letter-spacing:.025em}
 .hero-tile-rail{background:linear-gradient(145deg,#193c54,#102738 76%)}
-.rail-study{display:block;width:100%;height:100%;color:white}
 .hero-photo figcaption{max-width:none;padding:11px 2px 0;font-size:.72rem}
 @media(hover:hover) and (pointer:fine){.hero-tile:hover img{transform:scale(1.045)}}
 @media(min-width:761px) and (max-width:1100px){.hero-grid{gap:32px}.hero h1{font-size:clamp(2.8rem,5.4vw,4rem)}.hero-mosaic{gap:9px;padding:8px}.hero-tile-label{left:8px;bottom:8px;font-size:.62rem}}
