@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Road & Rural Infrastructure DPRs",
+    "description": "Road alignment, pavement design, drawings and estimates.",
+    "icon": "route",
+    "keywords": [
+      "PMGSY",
+      "RIDF"
+    ]
+  },
+  {
+    "title": "Bridge & Cross-Drainage Design",
+    "description": "Bridge and culvert design, from PPR to structural drawings.",
+    "icon": "construction",
+    "keywords": [
+      "Bridge Design",
+      "Cross-Drainage"
+    ]
+  },
+  {
+    "title": "Railway Feasibility & DPR Consultancy",
+    "description": "Final Location Surveys, feasibility studies and railway DPRs.",
+    "icon": "train-track",
+    "keywords": [
+      "FLS",
+      "EPC Tender Documents"
+    ]
+  },
+  {
+    "title": "Engineering Surveys",
+    "description": "Topographical, DGPS, LiDAR, river and traffic surveys.",
+    "icon": "ruler",
+    "keywords": [
+      "DGPS · LiDAR",
+      "Hydrology"
+    ]
+  },
+  {
+    "title": "Soil & Geotechnical Investigation",
+    "description": "Sub-soil investigation and testing for foundations and piles.",
+    "icon": "layers",
+    "keywords": [
+      "Soil Investigation",
+      "Foundations"
+    ]
+  },
+  {
+    "title": "Building Design & Estimation",
+    "description": "Building DPRs, foundation design, drawings and estimates.",
+    "icon": "building-2",
+    "keywords": [
+      "Buildings",
+      "Estimation"
+    ]
+  },
+  {
+    "title": "GIS Mapping & Infrastructure Planning",
+    "description": "Geo-tagged surveys, GIS mapping and rural-road planning.",
+    "icon": "map",
+    "keywords": [
+      "GIS",
+      "Geo-tagging"
+    ]
+  }
+]

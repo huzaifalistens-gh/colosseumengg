@@ -1,0 +1,89 @@
+[
+  {
+    "name": "West Bengal State Rural Development Agency",
+    "region": "WBSRDA · West Bengal",
+    "workSummary": "Road and bridge DPRs under PMGSY and RIDF, including surveys, design and technical documentation.",
+    "detail": "Alipurduar, Cooch Behar, Hooghly, Nadia, North & South 24 Parganas and Jalpaiguri divisions.",
+    "categories": [
+      "Road DPR",
+      "Bridge DPR",
+      "PMGSY"
+    ],
+    "featured": true,
+    "source": "Company content p.2; client/work list rows 1–3, 5–6"
+  },
+  {
+    "name": "Tripura Rural Roads Development Agency",
+    "region": "TRRDA · Government of Tripura",
+    "workSummary": "Road and bridge surveys and DPR preparation under PM-JANMAN, PMGSY-III and PMGSY-IV.",
+    "categories": [
+      "Rural Roads",
+      "Bridge DPR"
+    ],
+    "featured": true,
+    "source": "Company content p.2; client/work list row 4; Tripura project PDF"
+  },
+  {
+    "name": "South Eastern Railway",
+    "region": "Construction · Garden Reach",
+    "workSummary": "Feasibility studies through Final Location Surveys, traffic surveys, DPRs, bridge designs and drawings, and EPC tender documents.",
+    "categories": [
+      "Rail Feasibility",
+      "DPR",
+      "Bridge Design"
+    ],
+    "featured": true,
+    "source": "Client/work list row 15"
+  },
+  {
+    "name": "Sundarban Development Board",
+    "region": "Government of West Bengal",
+    "workSummary": "Bridge DPR preparation, river-crossing studies and technical design support in the Sundarbans.",
+    "categories": [
+      "Bridge DPR",
+      "River Studies"
+    ],
+    "featured": true,
+    "source": "Client/work list row 10; Karatia project PDF"
+  },
+  {
+    "name": "NABARD Consultancy Services",
+    "region": "NABCONS",
+    "workSummary": "Survey, design and DPR consultancy for rural roads and culverts.",
+    "categories": [],
+    "featured": false,
+    "source": "Company content p.2; NABCONS project PDF"
+  },
+  {
+    "name": "West Bengal State Warehousing Corporation",
+    "region": "Kumarganj · Bolpur · Egra",
+    "workSummary": "Approach-road reconstruction DPRs for RIDF warehouse facilities.",
+    "categories": [],
+    "featured": false,
+    "source": "Client/work list rows 7–9"
+  },
+  {
+    "name": "Rural Development Department, Tripura",
+    "region": "Manu · Santirbazar · Kanchanpur · Kumarghat",
+    "workSummary": "Rural-connectivity DPRs covering roads, bridges and cross-drainage structures for unconnected habitations.",
+    "categories": [],
+    "featured": false,
+    "source": "Client/work list rows 11–14"
+  },
+  {
+    "name": "Howrah Zilla Parishad",
+    "region": "Howrah · West Bengal",
+    "workSummary": "Building surveys, foundation design, drawings and detailed estimation.",
+    "categories": [],
+    "featured": false,
+    "source": "Company content p.2; SSK project PDF"
+  },
+  {
+    "name": "Kolkata Municipal Corporation",
+    "region": "",
+    "workSummary": "",
+    "categories": [],
+    "featured": false,
+    "source": "Company content p.2; client name only, scope not supplied"
+  }
+]

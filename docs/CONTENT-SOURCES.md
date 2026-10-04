@@ -54,3 +54,12 @@ Page references below count from the beginning of each supplied PDF (including c
 - Our Approach retains the five-stage flow from the original supplied HTML.
 - All photos are licensed illustrative stock, not actual project evidence.
 - The source PDFs are not copied to the public website.
+
+
+## Client content update — 4 October 2026
+
+Latest sources: Colosseum_Engineering_Website_Content.pdf (2 pages) and COLOSSEUM -CLIENT NAME & ADDRESS (1)-.pdf (1 page). Read and visually reviewed in full. The source documents remain outside the public website.
+
+Company content p.1 supports Kolkata base, establishment in March 2022 and six non-rail service families. P.2 supports PMGSY specialization, in-house delivery, difficult terrain, specialist staff, DGPS/LiDAR/Civil 3D/GIS, repeat government work, KMC name, and the revised phone and two offices. Railway scope comes only from client/work row 15: feasibility through FLS, traffic surveys, DPRs, bridge designs/drawings, EPC tender documents. No railway case study, operational capability or completion claim was added.
+
+clients.json records source attribution for each of nine grouped agencies. services.json is an editorial reference; the site remains static HTML, matching the existing projects.json architecture. KMC has no invented work summary. Client office addresses and personal names are omitted. Existing project facts remain sourced to the original PDFs. Current phone supersedes the historical Karatia work-order telephone; WhatsApp uses the updated number and still requires owner confirmation before external launch.

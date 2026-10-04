@@ -43,7 +43,7 @@ Prefer landscape photographs at least 1600px wide. Update the relevant `alt` tex
 
 Edit `dist/index.html` and `dist/projects/*.html` directly. Shared layout styles are in `dist/assets/styles.css`. The JSON in `docs/` records the sourced content; it is not a runtime data feed. Keep the source ledger updated when changing factual claims. Header and footer markup is repeated in the eight HTML files for simple offline use.
 
-Contact actions open email or phone applications. No form backend is required, and the site does not pretend to submit enquiries. Contact details are sourced from the July 2025 Karatia work order; verify they remain current before publishing.
+Contact actions open email or phone applications. No form backend is required, and the site does not pretend to submit enquiries. Contact details are sourced from the latest client-provided company content PDF.
 
 ## Check and commit
 
@@ -71,7 +71,7 @@ The existing site now includes an animated hamburger-to-close button, a mobile n
 
 The mobile sheet supports Escape, keyboard focus containment, background scroll locking and scroll restoration. Navigation remains available with JavaScript disabled. Reduced-motion preferences disable animated effects and keep all content accessible.
 
-The WhatsApp link uses the existing documented business telephone number (+91 62943 81886). Confirm it is enabled for WhatsApp before publishing. No message is sent automatically and no enquiry submission is simulated.
+The WhatsApp link uses the existing documented business telephone number (+91 62979 93475). Confirm it is enabled for WhatsApp before publishing. No message is sent automatically and no enquiry submission is simulated.
 
 ## Unified design update
 
@@ -96,3 +96,6 @@ If your repository contains this project inside a subfolder, select that exact s
 
 The checked-in vercel.json specifies the output directory and build command. Replace any old `public` dashboard override with `dist`. Commit and push the updated project, including package-lock.json and vercel.json, then redeploy. Existing `/projects/*.html` routes remain ordinary static files; no SPA rewrite is required.
 
+
+## Client content refinement
+Seven service families now include railway feasibility and DPR consultancy. Nine grouped agency entries describe documented work; KMC is listed by name only. Edit static HTML directly and maintain docs/clients.json and docs/services.json as editorial references. See docs/CONTENT-SOURCES.md for the new PDF sources.
