@@ -30,3 +30,6 @@ Removed the Railway-only client-rail class and blue top-border rule. All nine ca
 
 ## CTA hierarchy and project navigation
 Homepage primary CTA now targets contact; secondary targets projects. Contact email action uses Discuss Your Project. All seven project pages have a subtle top back link, unchanged project facts and image assets, supporting image after technical content, a shared blue contact CTA and two equal neutral previous/next cards. Browser clicks verified all seven back, previous, next and CTA destinations, and both homepage hero destinations. All seven project pages checked at 360, 390 and 430px without document or navigation-card overflow. Desktop navigation verified at 1440px. Production build passes all eight pages and local references.
+
+## CTA icon and photo-caption cleanup
+Hero primary CTA now uses the same northeast arrow markup as the header/menu CTA. Removed visible illustrative/placeholder image captions from homepage and all seven project pages, including the portfolio intro. Image descriptions and project facts retained.
