@@ -35,7 +35,7 @@ colosseum-engineering/
 
 ## Replace photos
 
-Replace JPGs inside `dist/assets/images/` using the same filenames. Each project has its own image named after its page, such as `chapra-river-bridge.jpg`. That single file appears on its homepage card and detail page. `road-construction.jpg` is the homepage hero; `building-construction.jpg` is the About photo. Original category stock copies are retained for convenience.
+Replace JPGs inside `dist/assets/images/` using the same filenames. Each project has its own image named after its page, such as `chapra-river-bridge.jpg`. That single file appears on its homepage card and detail page. `road-construction.jpg` is the homepage hero; `col-engineers.jpg` is the About photo. Original category stock copies are retained for convenience.
 
 Prefer landscape photographs at least 1600px wide. The homepage hero combines road, railway-maintenance, bridge and building photos; these are illustrative stock photos, not Colosseum Engineering project claims. Update the matching `alt` text and hero caption if you replace them. The homepage project introduction also identifies its images as placeholders; revise it when appropriate. Do not replace `logo.png` with a redraw: this is the original supplied file.
 
